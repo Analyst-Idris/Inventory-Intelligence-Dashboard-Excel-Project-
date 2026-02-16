@@ -1,4 +1,4 @@
-# Inventory-Intelligence-Dashboard-Excel-Project-
+# Inventory-Intelligence-Analysis-Excel-Project
 
 <img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/3f93a7a1-b2a1-4043-8b3c-6be6815909b2" />
 
