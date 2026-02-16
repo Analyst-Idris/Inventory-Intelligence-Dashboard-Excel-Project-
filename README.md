@@ -2,6 +2,31 @@
 
 <img width="800" height="800" alt="Image" src="https://github.com/user-attachments/assets/3f93a7a1-b2a1-4043-8b3c-6be6815909b2" />
 
+
+## The Two-Page Report  
+
+This project consists of a structured two-page analytical report:
+
+### Page 1 – Executive Summary
+Designed for strategic leadership visibility, including:
+- High-level KPI cards
+- Inventory health indicators (Sufficient vs Reorder Rate)
+- Total stock and estimated restock metrics
+- Stock distribution by category
+- Warehouse-level restocking overview (geographic view)
+
+<img width="4403" height="2508" alt="Image" src="https://github.com/user-attachments/assets/8e16da19-f524-4ee0-841d-57dc7db92a84" />
+
+### Page 2 – Operational Inventory Intelligence
+Designed for operational and procurement managers, including:
+- Supplier performance breakdown
+- Stock vs Restock comparison by category
+- Monthly restocking trend analysis
+- Supplier cost efficiency evaluation
+
+<img width="4378" height="2508" alt="Image" src="https://github.com/user-attachments/assets/98c67a9c-ba20-46a7-8f3e-46359c67656b" />
+
+
 ---
 
 # Project Overview  
@@ -223,29 +248,6 @@ The company shifted from reactive inventory management to proactive, data-driven
 The challenge was not inventory volume — it was the absence of structured inventory intelligence.  
 This solution closed that gap.
 
-
-## The Two-Page Report  
-
-This project consists of a structured two-page analytical report:
-
-### Page 1 – Executive Summary
-Designed for strategic leadership visibility, including:
-- High-level KPI cards
-- Inventory health indicators (Sufficient vs Reorder Rate)
-- Total stock and estimated restock metrics
-- Stock distribution by category
-- Warehouse-level restocking overview (geographic view)
-
-<img width="4403" height="2508" alt="Image" src="https://github.com/user-attachments/assets/8e16da19-f524-4ee0-841d-57dc7db92a84" />
-
-### Page 2 – Operational Inventory Intelligence
-Designed for operational and procurement managers, including:
-- Supplier performance breakdown
-- Stock vs Restock comparison by category
-- Monthly restocking trend analysis
-- Supplier cost efficiency evaluation
-
-<img width="4378" height="2508" alt="Image" src="https://github.com/user-attachments/assets/98c67a9c-ba20-46a7-8f3e-46359c67656b" />
 
 # Author  
 
